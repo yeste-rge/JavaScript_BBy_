@@ -1,3 +1,4 @@
+//5.0 布林值 boolean
 const height1 = 10;
 const width1 = 5;
 //width 宽度
